@@ -1,0 +1,16 @@
+body{
+    background-image: url("pinkamena_bg.png");
+    background-size: cover;
+  }
+  
+  h4{
+      font-family: 'Shadows Into Light', cursive;
+    color: #BF4D28;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
+  }
+  
+  
+  #canvas{
+      margin-left:2%;
+      
+  }
